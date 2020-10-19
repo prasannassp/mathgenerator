@@ -56,8 +56,7 @@ problem, solution = mathgen.genById(0)
 | 23 | Solve a System of Equations in R^2 | 5x - 7y = -84, 4x + 5y = 7 | x = -7, y = 7 | systemOfEquations |
 | 24 | Distance between 2 points | Find the distance between (5, -18) and (1, 19) | sqrt(1385) | distance2Point |
 | 25 | Pythagorean Theorem | The hypotenuse of a right triangle given the other two lengths 15 and 5 =  | 15.81 | pythagoreanTheorem |
-| 26 | Linear Equations | -6x + -17y = -220
--13x + -19y = -120 | x = -20, y = 20 | linearEquations |
+| 26 | Linear Equations | -6x + -17y = -220 -13x + -19y = -120 | x = -20, y = 20 | linearEquations |
 | 27 | Prime Factorisation | Find prime factors of 62 | [2, 31] | primeFactors |
 | 28 | Fraction Multiplication | (8/4)*(1/2) | 1 | fractionMultiplication |
 | 29 | Angle of a Regular Polygon | Find the angle of a regular polygon with 19 sides | 161.05 | angleRegularPolygon |
